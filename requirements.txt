@@ -1,0 +1,9 @@
+# JARVIS Windows - required packages
+google-genai
+SpeechRecognition
+sounddevice
+psutil
+Pillow
+requests
+pyautogui
+pywin32
